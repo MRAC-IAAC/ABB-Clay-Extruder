@@ -93,7 +93,3 @@ This project uses an `Optocoupler` to convert the 24V signals from a robot-arm i
 ###### References:
 - [Sample text](Sample text)
 - [Sample text](Sample text)
-
----
-
-[<img src="https://scontent.fmad3-5.fna.fbcdn.net/v/t1.0-9/13770259_10154385535628824_2677570477692999619_n.png?_nc_cat=104&_nc_ht=scontent.fmad3-5.fna&oh=a6ceef2e8bc078ec9a748405418ca69c&oe=5CBE64E5" height="100">](https://iaac.net/ "IAAC")
