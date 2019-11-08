@@ -91,4 +91,5 @@ This project uses an `Optocoupler` to convert the 24V signals from a robot-arm i
       ```
 #### Credits:
 Clay Extruder is a project of IaaC, Institute for Advanced Architecture of Catalonia. developed at Open Thesis Fabrication (OTF) in 2018-2019 by:
+
 Kunaljith Chadha, Ardeshir Talaei, Sheikh Riaz
